@@ -19,7 +19,7 @@ body {
   background-color: #FFFCF9;
   padding: 2rem;
   border-radius: 1rem;
-  min-height: 45vh;
+  /* height: 45vh; */
   max-width: 50vh;
   width: 100%;
 }
