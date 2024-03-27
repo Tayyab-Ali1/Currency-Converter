@@ -1,4 +1,4 @@
-import countryList from "./module/countreyList.js";
+import countryList from "./countreyList.js";
 const BASE_URL =
   "https://v6.exchangerate-api.com/v6/1feb74007966161ff28e7b57/latest";
 
